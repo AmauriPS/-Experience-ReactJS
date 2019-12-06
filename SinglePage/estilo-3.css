@@ -1,0 +1,81 @@
+.maury-show {
+    text-align: center;
+    color: #fff;
+    background-color: #333;
+    padding:120px;
+    border:solid 5px red;
+    
+}
+.titulo{
+    font-size: 40px; /*tamanho da fonte do título*/
+     color: white;/*esta é a cor do texto*/
+    text-align: center;/*o alinhamento do texto que carregar esta classe*/ 
+    background-color:;
+    margin: 100px 100px;
+}
+
+
+
+
+#maury-bonito {
+    color:white;/* cor da fonte */
+    padding-top: 20px;/*espaço superior entre o texto e o elemento*/
+    padding-bottom: 20px;/*espaço inferior entre o texto e o elemento*/   
+    padding-right:40px;/*espaço a direita entre o texto e o elemento*/
+    padding-left:40px;/*espaço a esquerda entre o texto e o elemento*/
+    background-color:green;/*cor verde para o fundo do elemento, nesse caso botão*/
+}
+p {
+    color: white;
+    background-color: #111;
+    padding:0px;
+    border:solid 5px white;
+    width: 200;
+    height: 200; 
+    font-size: 22px;
+    margin: 150px 150px;
+
+}
+h1 {
+ text-align: center;
+ 
+}
+
+
+.section{
+     
+     text-align: center;
+    }
+.sectionimg {
+    background-image:url("imagem1.jpeg");
+    padding:150px;
+}
+
+.sectionimg2 {
+    background-image:url("imagem2.jpg");
+    padding:150px;
+}
+.sectionimg3 {
+    background-image:url("imagem3.png");
+    padding:150px;
+}
+.sectionimg4 {
+    background-image:url("imagem4.png");
+    padding:150px;
+}
+
+
+footer {
+   text-align: center;
+   color: white;/*esta é a cor do texto*/
+   font-size: 22px;
+   margin:50px;
+
+}
+body {
+      border:solid 15px white;
+      background-image:url("computacao.jpg");
+}
+  
+
+
